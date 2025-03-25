@@ -1,0 +1,17 @@
+{
+    "rewrites": [
+      {
+        "source": "/facebook-verificacion",
+        "destination": "/facebook-verificacion.html"
+      },
+      {
+        "source": "/conducta",
+        "destination": "/conducta.html"
+      },
+      {
+        "source": "/politica",
+        "destination": "/politica.html"
+      }
+    ]
+  }
+  
